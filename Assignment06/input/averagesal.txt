@@ -1,0 +1,7 @@
+1	NhanVienA	1000.000
+2	NhanVienB	20000.000
+3	NhanVienC	45000.25
+4	NhanVienD	4000.1
+5	NhanVienE	1000.142
+1	NhanVienA	2000.00
+2	NhanVienB	30000
